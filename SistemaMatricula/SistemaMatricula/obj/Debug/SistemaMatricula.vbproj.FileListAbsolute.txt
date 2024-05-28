@@ -1,0 +1,52 @@
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe.config
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.pdb
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.xml
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.AssemblyReference.cache
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.SuggestedBindingRedirects.cache
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Form1.resources
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Resources.resources
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.GenerateResource.cache
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.CoreCompileInputs.cache
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.exe
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.xml
+D:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.pdb
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe.config
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.pdb
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.xml
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.AssemblyReference.cache
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.SuggestedBindingRedirects.cache
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Form1.resources
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Resources.resources
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.GenerateResource.cache
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.CoreCompileInputs.cache
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.exe
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.xml
+F:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.pdb
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe.config
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.pdb
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.xml
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.AssemblyReference.cache
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.SuggestedBindingRedirects.cache
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Form1.resources
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Resources.resources
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.GenerateResource.cache
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.CoreCompileInputs.cache
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.exe
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.xml
+E:\PROGRAMACION 2 PARCIAL\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.pdb
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe.config
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.exe
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.pdb
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\bin\Debug\SistemaMatricula.xml
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.SuggestedBindingRedirects.cache
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Form1.resources
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.Resources.resources
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.GenerateResource.cache
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.vbproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.exe
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.xml
+C:\Users\LAB4\Downloads\SISTEMA MATRICULA\SistemaMatricula\SistemaMatricula\obj\Debug\SistemaMatricula.pdb
